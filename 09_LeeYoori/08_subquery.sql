@@ -199,6 +199,7 @@ where me like '%마늘%';   -- 메인쿼리
 -- command + shift + / > 여러줄 주석
 
 -- result set : select 결과 집합
+<<<<<<< HEAD
 
 
 select * from tbl_menu where category_code = 12;
@@ -214,3 +215,5 @@ select category_code from tbl_category where ref_category_code = 3;
 
     select * from tbl_menu;
 
+=======
+>>>>>>> b557783abcbbfa071672ad722f77dec9d5801424
